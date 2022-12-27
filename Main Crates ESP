@@ -14,6 +14,9 @@ game.StarterGui:SetCore("SendNotification", {
             Title = "Pro Bacon", 
             Text = "Esp will reflash every ten(10) second, it may lag for half second"
 })
+setclipboard("Thanks for using!")
+setclipboard("Pro Bacon on your service")
+setclipboard("THX!")
 while wait(10) do
     print("Relfashing ESP")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoChengSC/Mad-City-Chapter-2-Season-2-Winter-Event-Crates-ESP/main/Elf%20Crate%20ESP"))() --Elf Crate ESP
