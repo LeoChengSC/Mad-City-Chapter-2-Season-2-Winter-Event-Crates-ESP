@@ -15,6 +15,6 @@ for __,v in pairs(game.workspace:GetDescendants()) do -- the path
    c.TextSize = 20
    c.Text = v.Name
    c.BackgroundTransparency = 1
+   print("Loaded Elf Crate")
  end
 end
-print("Loaded Elf Crate")
