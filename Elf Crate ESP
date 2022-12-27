@@ -17,3 +17,4 @@ for __,v in pairs(game.workspace:GetDescendants()) do -- the path
    c.BackgroundTransparency = 1
  end
 end
+print("Loaded Elf Crate")
