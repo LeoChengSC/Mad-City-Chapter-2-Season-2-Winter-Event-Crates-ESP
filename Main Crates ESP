@@ -2,17 +2,17 @@
 game.StarterGui:SetCore("SendNotification", {
            Icon = "";
             Title = "Pro Bacon", 
-            Text = "Thanks for using my script!"
+            Text = "Thanks for using my script!"
 })
 game.StarterGui:SetCore("SendNotification", {
            Icon = "";
             Title = "Pro Bacon", 
-            Text = "You cant see the crate if it is not spawned yet"
+            Text = "You cant see the crate if it is not spawned yet"
 })
 game.StarterGui:SetCore("SendNotification", {
            Icon = "";
             Title = "Pro Bacon", 
-            Text = "Esp will reflash every ten(10) second, it may lag for half second"
+            Text = "Esp will reflash every ten(10) second, it may lag for half second"
 })
 setclipboard("Thanks for using!")
 setclipboard("Pro Bacon on your service")
