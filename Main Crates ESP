@@ -1,6 +1,1 @@
---ESP crated by Pro Bacon
-game.StarterGui:SetCore("SendNotification", {
-           Icon = "";
-            Title = "Pro Bacon", 
-            Text = "Thanks for using my script!"
-})
+print("testing")
